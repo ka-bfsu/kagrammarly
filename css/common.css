@@ -1,0 +1,12 @@
+.page-nav {
+    position:absolute;
+    right:40px;
+    top:20px
+}
+.page-nav a {
+    cursor:pointer;
+    color:rgb(6,173,151);
+}
+.page-nav a:not(:last-of-type) {
+margin-right: 20px;
+}
